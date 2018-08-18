@@ -5,6 +5,6 @@ Repository containing weekly programming assignments of Machine Learning Course 
 ## Weeks
 
 ### Week 2
-	- [x] ex1.m - Beginner exercise
-	- [x] computeCost.m - Calculate the cost function
-	- [x] gradientDescent.m - Perform Gradient Descent operation
+ - [x] ex1.m - Beginner exercise
+ - [x] computeCost.m - Calculate the cost function
+ - [x] gradientDescent.m - Perform Gradient Descent operation
