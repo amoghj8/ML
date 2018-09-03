@@ -25,3 +25,9 @@ Repository containing weekly programming assignments of Machine Learning Course 
  - [x] sigmoidGradient.m - Compute the gradient of the sigmoid function
  - [x] randInitializeWeights.m - Randomly initialize weights
  - [x] nnCostFunction.m - Neural network cost function
+
+### Week 6
+ - [x] linearRegCostFunction.m - Regularized linear regression cost function
+ - [x] learningCurve.m - Generates a learning curve
+ - [x] polyFeatures.m - Maps data into polynomial feature space
+ - [x] validationCurve.m - Generates a cross validation curve
