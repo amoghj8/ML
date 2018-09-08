@@ -31,3 +31,9 @@ Repository containing weekly programming assignments of Machine Learning Course 
  - [x] learningCurve.m - Generates a learning curve
  - [x] polyFeatures.m - Maps data into polynomial feature space
  - [x] validationCurve.m - Generates a cross validation curve
+
+### Week 7
+ - [x] gaussianKernel.m - Gaussian kernel for SVM
+ - [x] dataset3Params.m - Parameters to use for Dataset 3
+ - [x] processEmail.m - Email preprocessing
+ - [x] emailFeatures.m - Feature extraction from emails
