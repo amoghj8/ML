@@ -37,3 +37,11 @@ Repository containing weekly programming assignments of Machine Learning Course 
  - [x] dataset3Params.m - Parameters to use for Dataset 3
  - [x] processEmail.m - Email preprocessing
  - [x] emailFeatures.m - Feature extraction from emails
+
+### Week 8
+ - [x] pca.m - Perform principal component analysis
+ - [x] projectData.m - Projects a data set into a lower dimensional space
+ - [x] recoverData.m - Recovers the original data from the projection
+ - [x] findClosestCentroids.m - Find closest centroids (used in K-means)
+ - [x] computeCentroids.m - Compute centroid means (used in K-means)
+ - [x] kMeansInitCentroids.m - Initialization for K-means centroids
