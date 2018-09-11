@@ -45,3 +45,8 @@ Repository containing weekly programming assignments of Machine Learning Course 
  - [x] findClosestCentroids.m - Find closest centroids (used in K-means)
  - [x] computeCentroids.m - Compute centroid means (used in K-means)
  - [x] kMeansInitCentroids.m - Initialization for K-means centroids
+
+### Week 9
+ - [x] estimateGaussian.m - Estimate the parameters of a Gaussian distribution with a diagonal covariance matrix
+ - [x] selectThreshold.m - Find a threshold for anomaly detection
+ - [x] cofiCostFunc.m - Implement the cost function for collaborative filtering
